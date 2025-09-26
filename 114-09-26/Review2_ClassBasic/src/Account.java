@@ -61,7 +61,7 @@ public class Account {
         } else {
             throw new IllegalArgumentException("存款金額必須為正");
         }
-        /**
+        /*
          *
          * @param amount 存款金額
          * @
