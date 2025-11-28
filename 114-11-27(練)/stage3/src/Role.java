@@ -1,4 +1,4 @@
-// 第二階段和第三階段完全相同
+
 public abstract class Role {
     private String name;
     private int health;
