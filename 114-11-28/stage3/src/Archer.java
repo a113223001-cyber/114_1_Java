@@ -134,4 +134,3 @@ public class Archer extends RangedRole {
     }
 }
 
-

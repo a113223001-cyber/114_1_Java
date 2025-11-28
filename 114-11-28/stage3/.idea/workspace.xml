@@ -4,51 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b48cb32-b7b5-48d0-8f50-73b6c088bbe8" name="更改" comment="" />
+    <list default="true" id="abc9317b-c6db-4a95-8524-10d765303aea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="365Pk4QPSMiXNdVNWaFn7nJ0NyO" />
+  <component name="ProjectId" id="365na6UJ3zCtHKp2xSCxtPoGw1K" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.RPG.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/怡岑/OneDrive/文件/GitHub/114_1_Java/114-11-28/stage3",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "应用程序.RPG.executor": "Run"
+    "last_opened_file_path": "C:/Users/m306/Desktop/114_1_Java/114-11-28/stage3",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="默认任务">
-      <changelist id="9b48cb32-b7b5-48d0-8f50-73b6c088bbe8" name="更改" comment="" />
-      <created>1764293598945</created>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abc9317b-c6db-4a95-8524-10d765303aea" name="Changes" comment="" />
+      <created>1764305360929</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1764293598945</updated>
+      <updated>1764305360929</updated>
     </task>
     <servers />
   </component>
